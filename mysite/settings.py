@@ -25,7 +25,7 @@ SECRET_KEY = '9r=ecs7hn2pe6yd&tdah%=%p@yl*i9v37sxa+_*x0480(t1b1('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kyurama.pythonanywhere.com']
 
 
 # Application definition
